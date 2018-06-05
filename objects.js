@@ -1,7 +1,8 @@
 var playlist = {'Frank Ocean': 'Pink & White'}
 
-function updatePlaylist(playlist, artistName, songTitle) {
+function updatePlaylist(pL, artistName, songTitle) {
   
-  
+  pL.artistname = songtitle;
+  return pL
   
 }
